@@ -196,7 +196,8 @@ docker volume ls
 <img width="1692" height="1206" alt="image" src="https://github.com/user-attachments/assets/8e0662c8-b830-452c-8f42-f1d6a60f7a3a" />
 
 - Logs & Security – recent logs + SSH failures.
-<img width="1707" height="936" alt="image" src="https://github.com/user-attachments/assets/30c42c19-8e36-4024-ad41-ca2f77758c27" />
+<img width="1675" height="690" alt="image" src="https://github.com/user-attachments/assets/11b38c40-3f14-465f-ba61-b95b5b62ccbf" />
+
 
 ---
 
